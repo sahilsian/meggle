@@ -9,14 +9,14 @@ var postgres = builder.AddPostgres("postgres", port: 5432)
     .WithDataVolume("postgres-data")
     .WithPgAdmin();
 
-var communityDb = postgres.AddDatabase("community-db");
+var podDb = postgres.AddDatabase("post-db");
 
 
-var communityService = builder.AddProject<CommunityService>("community-svc")
+var podService = builder.AddProject<PostService>("post-svc")
     .WithReference(keycloak)
-    .WithReference(communityDb)
+    .WithReference(podDb)
     .WaitFor(keycloak)
-    .WaitFor(communityDb);
+    .WaitFor(podDb);
 
 
 builder.Build().Run();

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahil\\meggle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD86050-38F6-484B-9137-619B407245E9}|Meggle.AppHost\\Meggle.AppHost.csproj|c:\\users\\sahil\\meggle\\meggle.apphost\\meggle.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBD86050-38F6-484B-9137-619B407245E9}|Meggle.AppHost\\Meggle.AppHost.csproj|solutionrelative:meggle.apphost\\meggle.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sahil\\meggle\\PostService\\PostService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostService\\PostService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sahil\\meggle\\PostService\\appsettings.Development.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostService\\appsettings.Development.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sahil\\meggle\\PostService\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostService\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD86050-38F6-484B-9137-619B407245E9}|Meggle.AppHost\\Meggle.AppHost.csproj|c:\\users\\sahil\\meggle\\meggle.apphost\\appsettings.development.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FBD86050-38F6-484B-9137-619B407245E9}|Meggle.AppHost\\Meggle.AppHost.csproj|solutionrelative:meggle.apphost\\appsettings.development.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD86050-38F6-484B-9137-619B407245E9}|Meggle.AppHost\\Meggle.AppHost.csproj|c:\\users\\sahil\\meggle\\meggle.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD86050-38F6-484B-9137-619B407245E9}|Meggle.AppHost\\Meggle.AppHost.csproj|solutionrelative:meggle.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD86050-38F6-484B-9137-619B407245E9}|Meggle.AppHost\\Meggle.AppHost.csproj|c:\\users\\sahil\\meggle\\meggle.apphost\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FBD86050-38F6-484B-9137-619B407245E9}|Meggle.AppHost\\Meggle.AppHost.csproj|solutionrelative:meggle.apphost\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meggle.AppHost.csproj",
+              "DocumentMoniker": "C:\\Users\\sahil\\meggle\\Meggle.AppHost\\Meggle.AppHost.csproj",
+              "RelativeDocumentMoniker": "Meggle.AppHost\\Meggle.AppHost.csproj",
+              "ToolTip": "C:\\Users\\sahil\\meggle\\Meggle.AppHost\\Meggle.AppHost.csproj",
+              "RelativeToolTip": "Meggle.AppHost\\Meggle.AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T03:29:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sahil\\meggle\\Meggle.AppHost\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Meggle.AppHost\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sahil\\meggle\\Meggle.AppHost\\appsettings.Development.json",
+              "RelativeToolTip": "Meggle.AppHost\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T03:27:45.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\meggle\\Meggle.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "Meggle.AppHost\\AppHost.cs",
+              "ToolTip": "C:\\Users\\sahil\\meggle\\Meggle.AppHost\\AppHost.cs",
+              "RelativeToolTip": "Meggle.AppHost\\AppHost.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:27:44.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sahil\\meggle\\PostService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PostService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sahil\\meggle\\PostService\\appsettings.Development.json",
+              "RelativeToolTip": "PostService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T03:27:37.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sahil\\meggle\\PostService\\appsettings.json",
+              "RelativeDocumentMoniker": "PostService\\appsettings.json",
+              "ToolTip": "C:\\Users\\sahil\\meggle\\PostService\\appsettings.json",
+              "RelativeToolTip": "PostService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T03:27:34.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostService.csproj",
+              "DocumentMoniker": "C:\\Users\\sahil\\meggle\\PostService\\PostService.csproj",
+              "RelativeDocumentMoniker": "PostService\\PostService.csproj",
+              "ToolTip": "C:\\Users\\sahil\\meggle\\PostService\\PostService.csproj",
+              "RelativeToolTip": "PostService\\PostService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T03:27:24.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sahil\\meggle\\Meggle.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "Meggle.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\sahil\\meggle\\Meggle.AppHost\\appsettings.json",
+              "RelativeToolTip": "Meggle.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T03:27:46.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

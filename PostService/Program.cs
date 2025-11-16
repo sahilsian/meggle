@@ -1,3 +1,5 @@
+using CommunityService.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
@@ -9,6 +11,7 @@ builder.Services.AddAuthentication()
         options.RequireHttpsMetadata = false;
         options.Audience = "meggle";
     });
+builder.AddNpgsqlDbContext<PostDbContext>("postDb");
 
 var app = builder.Build();
 
