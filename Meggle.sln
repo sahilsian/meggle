@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meggle.AppHost", "Meggle.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meggle.ServiceDefaults", "Meggle.ServiceDefaults\Meggle.ServiceDefaults.csproj", "{807F2375-3003-4E0B-B35D-2B0DA88A68F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{9E92BD74-85F1-4967-806F-638B2AE533D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunityService", "CommunityService\CommunityService.csproj", "{B66F5EE9-F160-49E4-9F91-A29081A357CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,12 @@ Global
 		{807F2375-3003-4E0B-B35D-2B0DA88A68F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{807F2375-3003-4E0B-B35D-2B0DA88A68F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{807F2375-3003-4E0B-B35D-2B0DA88A68F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66F5EE9-F160-49E4-9F91-A29081A357CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66F5EE9-F160-49E4-9F91-A29081A357CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66F5EE9-F160-49E4-9F91-A29081A357CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66F5EE9-F160-49E4-9F91-A29081A357CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B66F5EE9-F160-49E4-9F91-A29081A357CB} = {9E92BD74-85F1-4967-806F-638B2AE533D9}
 	EndGlobalSection
 EndGlobal
